@@ -7,7 +7,7 @@
     "start": "nodemon index.js"
   },
   "license": "ISC",
-  "author": "Vipin Kiroula",
+  "author": "Smit Italiya",
   "type": "module",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.521.0",
